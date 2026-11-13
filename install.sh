@@ -5,7 +5,7 @@ umask 077
 
 VERSION=1.0.0
 
-REPO=w59520760-sketch/amneziawg-hop
+REPO=v7lthronyx1/amneziawg-hop
 BIN_DIR=/usr/local/bin
 ETC=/etc/amnezia/amneziawg
 IFACE=awg0
