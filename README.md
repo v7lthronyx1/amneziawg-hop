@@ -36,8 +36,8 @@ English version: [below](#english)
 ## نصب
 
 ```bash
-curl -fsSLO https://github.com/v74all/amneziawg-hop/releases/latest/download/install.sh
-curl -fsSLO https://github.com/v74all/amneziawg-hop/releases/latest/download/install.sh.sha256
+curl -fsSLO https://github.com/w59520760-sketch/amneziawg-hop/releases/latest/download/install.sh
+curl -fsSLO https://github.com/w59520760-sketch/amneziawg-hop/releases/latest/download/install.sh.sha256
 sha256sum -c install.sh.sha256
 
 sudo bash install.sh --firewall
@@ -153,8 +153,8 @@ MIT. [amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) و [amneziawg-t
 One-command install of AmneziaWG 2.0 on a personal server: a layer-3 tunnel for the whole device with obfuscated headers, junk packets, QUIC mimicry and kernel-level UDP port hopping.
 
 ```bash
-curl -fsSLO https://github.com/v74all/amneziawg-hop/releases/latest/download/install.sh
-curl -fsSLO https://github.com/v74all/amneziawg-hop/releases/latest/download/install.sh.sha256
+curl -fsSLO https://github.com/w59520760-sketch/amneziawg-hop/releases/latest/download/install.sh
+curl -fsSLO https://github.com/w59520760-sketch/amneziawg-hop/releases/latest/download/install.sh.sha256
 sha256sum -c install.sh.sha256
 
 sudo bash install.sh --firewall
